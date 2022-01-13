@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+  background: red;
+  font-size: large;
+  margin: auto;
+  padding: 3em;
+  -webkit-transform: translate(50%);
+      -ms-transform: translate(50%);
+          transform: translate(50%);
+}

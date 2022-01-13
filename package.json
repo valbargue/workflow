@@ -1,0 +1,39 @@
+{
+  "name": "revision_workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o css/"
+  },
+  "author": "Valentin",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "browser-sync": "^2.27.7",
+    "compress-images": "^2.0.4",
+    "cssnano": "^5.0.15",
+    "gifsicle": "^5.2.1",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^7.0.1",
+    "pngquant-bin": "^6.0.1",
+    "postcss": "^8.4.5",
+    "sass": "^1.48.0"
+  },
+  "browserslist": [
+    "ie >= 8",
+    "edge >= 15",
+    "ie_mob >= 10",
+    "ff >= 45",
+    "chrome >= 45",
+    "safari >= 7",
+    "opera >= 23",
+    "ios >= 7",
+    "android >= 4"
+  ]
+}
